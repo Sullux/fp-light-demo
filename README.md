@@ -1,6 +1,6 @@
 # FP Light Demo
 
-This project is to demo the functionality of the [FP Light](https://github.com/Sullux/fp-light) library.
+This project is to demo the functionality of the [FP Light](https://github.com/Sullux/fp-light) library. It is [available on npm](https://www.npmjs.com/package/@sullux/fp-light) and can be added to your project with `npm i @sullux/fp-light` or `yarn add @sullux/fp-light`.
 
 ## Installation and Setup
 
